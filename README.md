@@ -13,11 +13,11 @@ Features:
 
 
 First Check point: 
-1	Make the main window with map.
-2	Detected Button with each city
-3	City include: Shanghai, Beijing, Hangzhou, Shenzhen, Chengdu, Haerbin, Qingdao, Tibet, Xinjiang
-4	After you click the button of each city, the second window with pictures and the local culture description.
-5	With the same window, it should have a box that can search
+1.	Make the main window with map.
+2.	Detected Button with each city
+3.	City include: Shanghai, Beijing, Hangzhou, Shenzhen, Chengdu, Haerbin, Qingdao, Tibet, Xinjiang
+4.	After you click the button of each city, the second window with pictures and the local culture description.
+5.	With the same window, it should have a box that can search
 
 Libraries:
 1.	Tkinter
