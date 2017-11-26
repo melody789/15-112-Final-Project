@@ -1,0 +1,9 @@
+Chengdu food falls under the banner of Sichuan Cuisine, 
+which is one of the Eight Regional Cuisines of China. 
+Below are some of the more popular dishes.
+* Pockmarked grandma's tofu: soft bean curd served with
+     spicy topping of minced beef in a bean-based sauce
+*Dry-fried green beans: fried with chili and preserved 
+     vegetables, these green beans are blistering on 
+     the outside but tender within
+*Boiled fish in a spicy, chili-oil sauce
