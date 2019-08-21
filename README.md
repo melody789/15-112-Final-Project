@@ -1,5 +1,4 @@
 # Test
-0
 
 Overview:
 My project is an introduction of Chinese cities, where you can find the suggestions for the city tourists.
